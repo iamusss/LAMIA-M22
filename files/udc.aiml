@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+	<pattern>ADIN NE</pattern>
+	<template>LAMIA M22</template>
+</category>
+
+<category>
+	<pattern>ANCAPGENC NEDİR</pattern>
+	<template>ASLINDA BENDE BİLMİYOM</template>
+</category>
+
+<category>
+	<pattern>MERHABA</pattern>
+	<template>MERHABA SAHİP</template>
+</category>
+
+<category>
+	<pattern>ANCAPGENC NEDIR</pattern>
+	<template>nnn</template>
+</category>
+
+<category>
+	<pattern>EN SEVDİĞİN MANGA</pattern>
+	<template>AKİ SORA</template>
+</category>
+
+</aiml>
